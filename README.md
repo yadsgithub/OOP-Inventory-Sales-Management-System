@@ -1,1 +1,2 @@
-# OOP-Inventory-Sales-Management-System
+# pos-system-tests
+POS system test classes
